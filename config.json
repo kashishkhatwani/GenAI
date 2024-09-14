@@ -1,0 +1,6 @@
+{
+    "AZURE_OPENAI_KEY": "0fb980c3be3b4e11b1bf4a9228980c78",
+    "AZURE_OPENAI_ENDPOINT": "https://kashish-openai-playground.openai.azure.com/",
+    "AZURE_OPENAI_APIVERSION": "2024-05-01-preview",
+    "CHATGPT_MODEL": "text-completion-model-kashish"
+}
